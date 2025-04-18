@@ -35,7 +35,8 @@ Top Projects: Chatbot | Face Recognition | Weather App|CHAT APPLICATION
 
 ---
 
-🧠 Fun Facts
+
+
 💻 Code. Load. Explode.
 🧠 Learn. Yearn. Earn.
 🤝 Build. Skilled. Thrilled.
