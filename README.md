@@ -34,7 +34,11 @@ Top Projects: Chatbot | Face Recognition | Weather App|CHAT APPLICATION
 ```
 
 ---
+### 📈 GitHub Stats
 
+![loki GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=white)
 
 
 💻 Code. Load. Explode.
