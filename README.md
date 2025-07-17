@@ -39,7 +39,7 @@ Top Projects: Chatbot | Face Recognition | Weather App|CHAT APPLICATION
 🤝 Build. Skilled. Thrilled.
 
 📊 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=tokyonight" alt="GitHub Streak" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=tokyonight" alt="GitHub Streak" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshloki65&theme=tokyo-night&hide_border=true&area=true&custom_title=Lokesh's%20Contribution%20Graph" alt="Contribution Graph" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile+Views&color=0e75b6&style=flat" alt="lokeshloki65" /> </p> ```
