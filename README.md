@@ -30,7 +30,7 @@
 Languages: Python, HTML, CSS, Java
 Tools: VS Code, GitHub, springboot, MySQL
 Learning Now: JS,full-stack & AI
-Top Projects: Chatbot | Face Recognition | Weather App|CHAT APPLICATION 
+Top Projects: grocery-shop | E-learning-platform | Weather App|CHAT APPLICATION 
 ```
 
 ---
