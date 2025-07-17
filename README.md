@@ -41,7 +41,6 @@ Top Projects: grocery-shop | E-learning-platform | Weather App|CHAT APPLICATION
 
 ## 🖥️ GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshloki65&theme=react-dark&hide_border=false&area=true&custom_title=🔥+My+GitHub+Contribution+Graph)
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile+Views&color=0e75b6&style=flat" alt="lokeshloki65" /> </p> 
 
 
 
