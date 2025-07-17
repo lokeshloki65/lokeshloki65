@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5FCA&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lokesh!;+Coder+from+Vellore!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3EC5FF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Lokesh!;+Coder+from+Vellore!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,16 +13,24 @@
 
 ### 👨‍💻 About Me
 
-- 🔥 Passionate Coder from **Vellore, India**
-- 🚀 Dreaming Big – **Microsoft Engineer**
-- 🧠 Innovator | Pythonista | HTML Magician
-- 🎓 B.Tech Student | Web Developer
-
-- 🔗 Portfolio: [lokeshloki.site](https://lokeshloki.site)
-- 📫 Email: lokesh152005@gmail.com
+- 🔥 Passionate coder from **Vellore, India**
+- 💻 Final Year B.Tech in **AI & Data Science**
+- 🛠️ Building cool projects in **Python, Java, HTML, Firebase**
+- 🚀 Dreaming to become a **Microsoft Software Engineer**
+- 🌱 Currently learning: Full Stack Web Development & AI
 
 ---
 
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:lokesh152005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://lokeshloki.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
 ### 🚀 Tech Stack
 
 ```bash
