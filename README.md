@@ -105,12 +105,6 @@ Hackathon project repo with innovative AI ideas & prototypes.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
 
 
 
