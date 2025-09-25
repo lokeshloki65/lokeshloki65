@@ -112,9 +112,7 @@ Hackathon project repo with innovative AI ideas & prototypes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokeshloki65&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 ---
 
