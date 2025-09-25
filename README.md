@@ -80,7 +80,7 @@ Interactive quiz with scoring system, dynamic questions & modern UI.
 
 ### 🛍️ Xyntra
 <p align="center">
-Full-stack e-commerce platform with MongoDB backend & 50+ products.  
+Full-stack AI Chatbot using html,css,js and python for db using firebase  
 <br/>
 <a href="https://github.com/lokeshloki65/Xyntra" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
