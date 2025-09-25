@@ -91,19 +91,17 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=radical" width="48%" />
+  <!-- Add 150 base commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20(+150%20Base)&include_all_commits=true&count_private=true" width="48%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=radical" width="48%" />
 </p>
+
 <p align="center">
+  <!-- Add streak stats normally -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=radical" width="48%" />
 </p>
 
----
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshloki65&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
