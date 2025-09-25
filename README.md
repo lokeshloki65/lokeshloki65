@@ -91,16 +91,23 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- Add 150 base commits -->
+  <!-- Stats Card with Custom Title -->
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20(+150%20Base)&include_all_commits=true&count_private=true" width="48%" />
   
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Add streak stats normally -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshloki65&theme=radical" width="48%" />
 </p>
+
+<p align="center">
+  <!-- Fake Commit Badge -->
+  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=+150%20Base%20Commits&color=ff69b4&style=for-the-badge" />
+</p>
+
 
 
 ---
