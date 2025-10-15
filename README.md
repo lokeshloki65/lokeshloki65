@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 🔥 Passionate coder from **Vellore, India**
-🎓 Final Year B.Tech – **AI & Data Science**
+🎓 Final Year B.Tech – **AI & Data Science** 
 💻 Projects in **Python, Java, Web Development, Firebase**
 🌱 Currently exploring **Full Stack Development & AI**
 🎯 Dream → Become a **Microsoft Software Engineer**
