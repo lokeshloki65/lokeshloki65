@@ -46,8 +46,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="54%" alt="Lokesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="41%" alt="Lokesh's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="54%" alt="Lokesh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="41%" alt="Lokesh's Top Languages" />
 </p>
 
 ---
