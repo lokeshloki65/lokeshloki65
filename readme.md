@@ -52,8 +52,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://lokeshloki65-fxpu.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyowhitet&hide_border=true&count_private=true" width="54%" />
-  <img src="https://lokeshloki65-fxpu.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokywhite&hide_border=true&count_private=true" width="41%" />
+  <img src="https://lokeshloki65-fxpu.vercel.app/api?username=lokeshloki65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="54%" />
+  <img src="https://lokeshloki65-fxpu.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="41%" />
 </p>
 ---
 
