@@ -8,7 +8,7 @@
 
 ### 🚀 About Me 
 
-- 🔥 Passionate coder from **Vellore, India** 🇮🇳.
+- 🔥 Passionate coder from **Vellore, India** 🇮🇳. 
 - 🎓 Final Year B.Tech Student in **Artificial Intelligence & Data Science**. 
 - 💻 My project portfolio includes work in **Python, Java, Web Development, and Firebase**.
 - 🌱 Currently expanding my skills in **Full-Stack Development & Generative AI**.
