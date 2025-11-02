@@ -11,3 +11,4 @@ coverage:
       default:
         threshold: 5
     patch: false
+ 
