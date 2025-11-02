@@ -5,3 +5,4 @@ export default {
   coverageProvider: "v8",
   testMatch: ["<rootDir>/tests/e2e/**/*.test.js"],
 };
+ 
