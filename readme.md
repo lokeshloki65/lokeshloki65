@@ -6,7 +6,7 @@
  
 --- 
 
-### 🚀 About Me 
+### 🚀 About Me  
 
 - 🔥 Passionate coder from **Vellore, India** 🇮🇳. 
 - 🎓 Final Year B.Tech Student in **Artificial Intelligence & Data Science**. 
