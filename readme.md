@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lokesh M <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3EC5FF&center=true&vCenter=true&width=650&lines=AI+%26+Web+Development+Enthusiast;Final+Year+B.Tech+in+AI+%26+DS;Full-Stack+Learner;Future+Microsoft+Engineer" alt="Typing SVG animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3EC5FF&center=true&vCenter=true&width=650&lines=AI+%26+Web+Development+Enthusiast;Final+Year+B.Tech+in+AI+%26+DS;Full-Stack+Learner;Future+Microsoft+Engineer" alt="Typing SVG animation"/> 
 </p>
  
 ---
