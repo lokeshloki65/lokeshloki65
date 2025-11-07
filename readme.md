@@ -120,13 +120,9 @@
 
 
 ---
-<div align="center">
 
-🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=lokeshloki65&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
----
 
 🌱 **Contribution Graph**
 
@@ -134,16 +130,8 @@
 
 ---
 
-💡 **Profile Insights**
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=lokeshloki65&data=stars,prs,commits,issues,contribs&theme=onedark&hide_border=true" alt="Profile Insights" />
 
----
 
-💻 **WakaTime Stats (Activity Feature)**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-
-</div>
 
 > ## Code Locally, Impact Globally 🌐
