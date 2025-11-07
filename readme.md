@@ -117,6 +117,33 @@
   <a href="https://github.com/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+
+
 ---
+<div align="center">
+
+🏆 **GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokeshloki65&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+
+---
+
+🌱 **Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshloki65&bg_color=1f222e&color=f8f8f2&line=50fa7b&point=50fa7b&border=1f222e&hide_border=true&theme=react" alt="GitHub Contribution Graph" />
+
+---
+
+💡 **Profile Insights**
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=lokeshloki65&data=stars,prs,commits,issues,contribs&theme=onedark&hide_border=true" alt="Profile Insights" />
+
+---
+
+💻 **WakaTime Stats (Activity Feature)**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+
+</div>
 
 > ## Code Locally, Impact Globally 🌐
