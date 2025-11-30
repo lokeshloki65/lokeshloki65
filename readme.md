@@ -241,57 +241,10 @@
 
 ---
 
-## 💼 Professional Skills Breakdown
 
-<details align="center">
-  <summary><b>🎯 Click to view comprehensive skills overview</b></summary>
-  <br>
   
-  ### Technical Expertise:
   
-  **🌐 Full-Stack Development**
-  - Frontend: React, Next.js, HTML5, CSS3, JavaScript, TypeScript
-  - Backend: Node.js, Express, Flask, Django
-  - Database: MySQL, MongoDB, PostgreSQL, Firebase
-  - API Development: RESTful APIs, GraphQL
-  
-  **🤖 Artificial Intelligence & Machine Learning**
-  - Deep Learning: Neural Networks, CNN, RNN, LSTM
-  - NLP: Text Processing, Sentiment Analysis, Chatbots
-  - Computer Vision: Image Classification, Object Detection
-  - Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
-  
-  **📊 Data Science & Analytics**
-  - Data Analysis & Visualization
-  - Statistical Modeling & Hypothesis Testing
-  - Big Data Processing
-  - Tools: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-  
-  **☁️ Cloud & DevOps**
-  - Version Control: Git, GitHub
-  - Cloud Platforms: AWS, Firebase
-  - Deployment: Vercel, Netlify, Heroku
-  - Containerization: Docker basics
-  
-  **🎯 Problem Solving**
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - System Design Basics
-  - Code Optimization
-  
-  ### Soft Skills:
-  
-  - 💡 **Creative Problem Solving:** Innovative approaches to complex challenges
-  - 🤝 **Team Collaboration:** Effective communication and teamwork
-  - 📚 **Continuous Learning:** Always exploring new technologies
-  - 🎯 **Goal-Oriented:** Focused on achieving tangible results
-  - 💬 **Communication:** Clear technical and non-technical communication
-  - ⏰ **Time Management:** Efficient project delivery
-  - 🔍 **Attention to Detail:** High-quality code and documentation
-  
-</details>
 
----
 
 ## 🌟 What I'm Currently Working On
 
@@ -325,10 +278,8 @@
   <a href="https://twitter.com/lokeshloki65" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://dev.to/lokeshloki65" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://www.instagram.com/lokeshloki65" target="_blank">
+  
+   <a href="https://www.instagram.com/lokeshloki65" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -345,13 +296,7 @@
 
 
 
-## 💬 My Philosophy
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Code+Locally%2C+Impact+Globally+%F0%9F%8C%90;Innovation+Through+Technology+%F0%9F%92%A1;Building+Tomorrow%2C+Today+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%93%9A;Dream+Big%2C+Code+Bigger+%E2%9C%A8" alt="Philosophy" />
-</h3>
-
----
 
 ## 📊 Profile Summary
 
