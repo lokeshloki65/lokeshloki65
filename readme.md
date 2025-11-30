@@ -225,7 +225,7 @@
   <summary><b>🔍 View Detailed Problem Solving Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://leetcard.jacoblin.cool/lokeshloki65?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/lithika_babu?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </p>
 </details>
 
