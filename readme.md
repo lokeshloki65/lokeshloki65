@@ -190,11 +190,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lokeshloki65&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-api-lcjp.vercel.app/api/wakatime?username=lokeshloki65&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
-</p>
 
----
 
 ## 💻 Coding Profiles & Competitive Programming
 
