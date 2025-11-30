@@ -25,7 +25,7 @@
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (Pre Final Year)
 - 💼 **Career Goal:** Software Engineer | Building AI-driven innovations globally
 
-- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺, Paris,Dubai 
+- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺 | Paris | Dubai 
 - 📍 **Location:** Vellore, Tamil Nadu, India
 - 💡 **Interests:** Full-Stack Development, Generative AI, Data Science, Cloud Computing
 - 🧠 **Core Strengths:** Problem Solving, Critical Thinking, Team Collaboration
