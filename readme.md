@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/github/stars/lokeshloki65?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github" alt="Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/lokeshloki65/lokeshloki65/raw/main/assets/coding.gif" width="400" alt="Coding GIF" />
-</p>
+
 
 <p align="center">
   <em>🚀 Building impactful AI solutions and scalable web applications that solve real-world problems<br>
