@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>🚀 Building impactful AI solutions and scalable web applications that solve real-world problems<br>
-  🎓 Final Year B.Tech Student | AI & Data Science<br>
+  🎓  Pre Final Year B.Tech Student | AI & Data Science<br>
   💡 Passionate about Innovation, Technology & Continuous Learning</em>
 </p>
 
@@ -23,12 +23,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (Final Year)
-- 💼 **Career Goal:** Software Engineer at Microsoft | Building AI-driven innovations globally
-- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺
-- 📍 **Location:** Ponneri, Tamil Nadu, India
+- 💼 **Career Goal:** Software Engineer | Building AI-driven innovations globally
+
+- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺, Paris,Dubai 
+- 📍 **Location:** Vellore, Tamil Nadu, India
 - 💡 **Interests:** Full-Stack Development, Generative AI, Data Science, Cloud Computing
 - 🧠 **Core Strengths:** Problem Solving, Critical Thinking, Team Collaboration
-- 💬 **Ask me about:** Python, JavaScript, React, AI/ML, Web Development
+
 - 📧 **Email:** lokesh152005@gmail.com
 - 🌐 **Portfolio:** [lokeshloki.site](https://lokeshloki.site)
 - ⚡ **Fun fact:** I love building things that make a difference!
