@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (Final Year)
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (Pre Final Year)
 - 💼 **Career Goal:** Software Engineer | Building AI-driven innovations globally
 
 - 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺, Paris,Dubai 
