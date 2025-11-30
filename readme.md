@@ -173,13 +173,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-api-lcjp.vercel.app/api?username=lokeshloki65&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lokeshloki65&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=lokeshloki65&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributed Repos" width="49%" />
+  <img src="https://github-stats-api-lcjp.vercel.app/api/top-langs/?username=lokeshloki65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-api-lcjp.vercel.app/api?username=lokeshloki65&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributed Repos" width="49%" />
 </p>
 
 ---
@@ -199,7 +199,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lokeshloki65&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-stats-api-lcjp.vercel.app/api/wakatime?username=lokeshloki65&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -225,7 +225,7 @@
   <summary><b>🔍 View Detailed Problem Solving Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://leetcard.jacoblin.cool/lithika_babu?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/lokeshloki65?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </p>
 </details>
 
