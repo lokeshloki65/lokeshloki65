@@ -5,7 +5,7 @@ describe("flexLayout", () => {
   it("should work with row & col layouts", () => {
     const layout = flexLayout({
       items: ["<text>1</text>", "<text>2</text>"],
-      gap: 60,
+      gap: 60, 
     });
 
     expect(layout).toStrictEqual([
