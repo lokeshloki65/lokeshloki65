@@ -6,7 +6,7 @@ import { calculateRank } from "../src/calculateRank.js";
 import { fetchStats } from "../src/fetchers/stats.js";
 
 // Test parameters.
-const data_stats = {
+const data_stats = { 
   data: {
     user: {
       name: "Anurag Hazra",
