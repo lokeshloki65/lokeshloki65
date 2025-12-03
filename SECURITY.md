@@ -5,7 +5,7 @@ GitHub Readme Stats project.
 
 - [Reporting a Vulnerability](#reporting-a-vulnerability)
 - [Disclosure Policy](#disclosure-policy)
- 
+  
 ## Reporting a Vulnerability 
 
 The GitHub Readme Stats team and community take all security vulnerabilities
