@@ -9,7 +9,7 @@
 </p>
 
 
-
+  
 <p align="center"> 
   <em>🚀 Building impactful AI solutions and scalable web applications that solve real-world problems<br>
   🎓  Pre Final Year B.Tech Student | AI & Data Science<br>
