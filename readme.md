@@ -1,7 +1,7 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+LOKESH+M;Aspiring+Software+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h1>
- 
+  
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/lokeshloki65?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" />
