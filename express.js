@@ -6,7 +6,7 @@ import wakatimeCard from "./api/wakatime.js";
 import gistCard from "./api/gist.js";
 import express from "express";
 
-const app = express(); 
+const app = express();  
 const router = express.Router();
 
 router.get("/", statsCard);
