@@ -5,7 +5,7 @@
  
 echo "🚀 GitHub Stats API - Quick Setup"
 echo "==============================="
-echo ""
+echo "" 
 
 # Colors for output
 GREEN='\033[0;32m'
