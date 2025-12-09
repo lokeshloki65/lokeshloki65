@@ -4,7 +4,7 @@
 # Author: LOKESH M (@lokeshloki65)
  
 echo "🚀 GitHub Stats API - Quick Setup"
-echo "=================================="
+echo "==============================="
 echo ""
 
 # Colors for output
