@@ -1,7 +1,7 @@
 // @ts-check   
  
 import { renderStatsCard } from "../src/cards/stats.js";
-import { guardAccess } from "../src/common/access.js";
+import { guardAccess } from "../src/common/access.js";  
 import {  
   CACHE_TTL, 
   resolveCacheSeconds,
