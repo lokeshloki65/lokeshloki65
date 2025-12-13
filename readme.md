@@ -1,39 +1,38 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+LOKESH+M;Aspiring+Software+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />  
-</h1>             
-        
-                      
-<p align="center">          
-  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />    
-  <img src="https://img.shields.io/github/followers/lokeshloki65?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" /> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+LOKESH+M;Aspiring+Software+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/lokeshloki65?tab=followers">
+    <img src="https://img.shields.io/github/followers/lokeshloki65?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" />
+  </a>
   <img src="https://img.shields.io/github/stars/lokeshloki65?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github" alt="Stars" />
-</p>  
-     
-  
-   
-<p align="center">    
+</p>
+
+<p align="center">
   <em>🚀 Building impactful AI solutions and scalable web applications that solve real-world problems<br>
   🎓  Pre Final Year B.Tech Student | AI & Data Science<br>
   💡 Passionate about Innovation, Technology & Continuous Learning</em>
 </p>
-  
+
 ---
 
-## 🎯 About Me 
+## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (Pre Final Year)
 - 💼 **Career Goal:** Software Engineer | Building AI-driven innovations globally
-
-- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺 | Paris | Dubai 
+- 🌍 **Dream Destinations:** USA 🇺🇸 | UK 🇬🇧 | Australia 🇦🇺 | Paris | Dubai
 - 📍 **Location:** Vellore, Tamil Nadu, India
 - 💡 **Interests:** Full-Stack Development, Generative AI, Data Science, Cloud Computing
 - 🧠 **Core Strengths:** Problem Solving, Critical Thinking, Team Collaboration
-
 - 📧 **Email:** lokesh152005@gmail.com
 - 🌐 **Portfolio:** [lokeshloki.site](https://lokeshloki.site)
 - ⚡ **Fun fact:** I love building things that make a difference!
+
+<br clear="right"/>
 
 ---
 
@@ -54,7 +53,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-
 </p>
 
 ### ⚙️ Backend & Database
@@ -71,7 +69,6 @@
 ### 🤖 AI/ML & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -91,7 +88,6 @@
 ### 🛠️ Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -190,8 +186,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lokeshloki65&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-
-
 ## 💻 Coding Profiles & Competitive Programming
 
 <p align="center">
@@ -213,7 +207,7 @@
   <summary><b>🔍 View Detailed Problem Solving Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://leetcard.jacoblin.cool/Lokeshlokii65?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/lokeshloki65?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </p>
 </details>
 
@@ -242,11 +236,6 @@
 
 ---
 
-
-  
-  
-
-
 ## 🌟 What I'm Currently Working On
 
 - 🔨 Building scalable full-stack applications with modern tech stack
@@ -270,9 +259,6 @@
   <a href="mailto:lokesh152005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
- 
-  
-  
    <a href="https://www.instagram.com/Lovely_loki._65" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -288,10 +274,6 @@
 
 ---
 
-
-
-
-
 ## 📊 Profile Summary
 
 <p align="center">
@@ -300,12 +282,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshloki65&theme=tokyonight" alt="Repos per Language" />
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshloki65&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
@@ -315,5 +296,3 @@
   <em> Crafted with passion by <a href="https://github.com/lokeshloki65">LOKESH M</a></em><br>
   <em> Don't forget to star my repositories if you find them useful!</em>
 </p>
-
-
