@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/lokeshloki65?tab=followers"> 
+  <a href="https://github.com/lokeshloki65?tab=followers">  
     <img src="https://img.shields.io/github/followers/lokeshloki65?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" /> 
   </a>
   <img src="https://img.shields.io/github/stars/lokeshloki65?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github" alt="Stars" />
