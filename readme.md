@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/lokeshloki65?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github" alt="Stars" />
 </p>
 
-<p align="center">
+<p align="center">   
   <em>🚀 Building impactful AI solutions and scalable web applications that solve real-world problems<br>
   🎓  Pre Final Year B.Tech Student | AI & Data Science<br>
   💡 Passionate about Innovation, Technology & Continuous Learning</em>
