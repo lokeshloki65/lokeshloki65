@@ -3,7 +3,7 @@
 const FALLBACK_LOCALE = "en";
 
 /**
- * I18n translation class.
+ * I18n translation class. 
  */ 
 class I18n {
   /**
