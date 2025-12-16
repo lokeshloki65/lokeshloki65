@@ -13,7 +13,7 @@ class I18n {
    * @param {string=} options.locale Locale. 
    * @param {any} options.translations Translations.
    */ 
-  constructor({ locale, translations }) { 
+  constructor({ locale, translations }) {  
     this.locale = locale || FALLBACK_LOCALE;
     this.translations = translations;
   }
