@@ -7,7 +7,7 @@ const FALLBACK_LOCALE = "en";
  */ 
 class I18n { 
   /**
-   * Constructor.
+   * Constructor. 
    *
    * @param {Object} options Options.
    * @param {string=} options.locale Locale. 
