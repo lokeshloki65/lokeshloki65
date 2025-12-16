@@ -19,7 +19,7 @@ class I18n {
   }
 
   /**
-   * Get translation.
+   * Get translation. 
    *
    * @param {string} str String to translate.
    * @returns {string} Translated string.
