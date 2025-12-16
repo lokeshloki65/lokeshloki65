@@ -1,7 +1,7 @@
 // @ts-check
-
+ 
 const FALLBACK_LOCALE = "en";
-
+ 
 /**
  * I18n translation class. 
  */ 
