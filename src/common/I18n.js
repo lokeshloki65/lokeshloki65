@@ -5,7 +5,7 @@ const FALLBACK_LOCALE = "en";
 /**
  * I18n translation class. 
  */ 
-class I18n {
+class I18n { 
   /**
    * Constructor.
    *
