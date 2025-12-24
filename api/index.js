@@ -3,7 +3,7 @@
 import { renderStatsCard } from "../src/cards/stats.js";
 import { guardAccess } from "../src/common/access.js";   
 import {        
-  CACHE_TTL,        
+  CACHE_TTL,         
   resolveCacheSeconds,       
   setCacheHeaders,    
   setErrorCacheHeaders,
