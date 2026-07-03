@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -30,15 +30,18 @@ whoami:
   current: "AI & ML Intern @ NIT Tiruchirappalli (TCS Foundation Programme)"
   focus: ["LLMs", "RAG", "Agentic AI", "Full-Stack Systems"]
   based_in: "Vellore, Tamil Nadu, India"
-  status: "Final Year B.Tech — AI & Data Science"
+  status: "Final Year B.Tech — AI & Data Science | CGPA 8.26/10"
   motto: "Build things that solve real problems, ship them, repeat."
 ```
 
-- 🥇 **1st Prize** — AI for ALL National Ideathon, NIT Trichy (Smart Agriculture Solution)
-- 🇬🇧 **International Client** — Delivered a ₹40,000 full digital growth project for a UK property company
-- 🌍 **Global Organizer** — Ran the FutureAI Global Hackathon: 450+ teams, judges from Google, Amazon & Meta
+I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. I worked as an AI & ML Intern at NIT Tiruchirappalli (TCS Foundation), building real-world AI agriculture solutions, and delivered a UK client project worth ₹40,000. I specialize in **LLMs, RAG, Agentic AI, FastAPI & React** — building scalable, real-world AI applications with a strong focus on clean UI, performance, and impact.
+
+- 🥇 **1st Prize** — AI for ALL National Ideathon, NIT Trichy × TCS Foundation (Agriculture Track)
+- 🇬🇧 **International Client** — Delivered a ₹40,000 full digital growth project for PropCare NW (UK)
+- 🌍 **Global Organizer** — Managed FutureAI Global Hackathon: 350+ participants, judges from Google, Amazon, Meta & AWS
 - 📄 **Published Researcher** — AI Agro Assistant research paper live on Zenodo
-- 📧 **Email:** lokesh152005@gmail.com &nbsp;|&nbsp; 🌐 **Portfolio:** [lokeshloki.in](https://www.lokeshloki.in)
+- 📧 **Email:** lokesh152005@gmail.com &nbsp;|&nbsp; 📱 **Phone:** +91 80728 94184
+- 🌐 **Portfolio:** [lokeshloki.in](https://www.lokeshloki.in)
 
 <br clear="right"/>
 
@@ -51,7 +54,7 @@ whoami:
     <th>🎓 NIT Trichy</th>
     <th>🥇 Ideathon Winner</th>
     <th>🇬🇧 UK Client</th>
-    <th>🌍 450+ Teams</th>
+    <th>🌍 350+ Participants</th>
     <th>📄 Published</th>
   </tr>
   <tr align="center">
@@ -65,22 +68,45 @@ whoami:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Tech Arsenal
+## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,react,nodejs,express,flask,fastapi,mysql,mongodb,firebase,tensorflow,git,github,docker,aws,vercel,netlify,figma,postman,vscode&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,firebase&theme=dark&perline=9" alt="Core Skills" />
 </p>
 
 <div align="center">
 
-| 🧠 AI / ML | ⚙️ Backend | 🎨 Frontend | ☁️ Cloud & DevOps |
+| 💻 Languages | ⚙️ Frameworks & Runtime | 🗄️ Databases | ☁️ Platforms |
 |:---:|:---:|:---:|:---:|
-| TensorFlow | Node.js / Express | React + Vite | Docker |
-| LangChain | FastAPI / Flask | Tailwind CSS | AWS |
-| RAG Pipelines | MySQL / MongoDB | Framer Motion | Vercel / Netlify |
-| Agentic AI | Firebase / Firestore | Redux | GitHub Actions |
+| Python | React.js | MongoDB | Firebase |
+| JavaScript | Node.js | MySQL | Vercel / Netlify |
+| HTML5 / CSS3 | FastAPI / Flask | Firestore | GitHub Actions |
 
 </div>
+
+**Also exploring:** LangChain · RAG Pipelines · Agentic AI · TypeScript · Docker · AWS
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Experience & Education
+
+```text
+📅 Feb 2026    🥇 Ideathon Winner — Agriculture Track
+               NIT Tiruchirappalli × TCS Foundation
+               First Place, AI for ALL Ideathon 2026 — AI-driven agriculture solution
+
+📅 2025-Now    🤖 AI & ML Intern
+               NIT Tiruchirappalli (TCS Foundation Programme)
+               Built the AI Agro Assistant platform end-to-end
+
+📅 Jun-Aug 25  💻 Web Development Intern
+               Codetech IT Solutions, Hyderabad
+               Built responsive web apps, collaborated in Agile sprints with Git
+
+📅 2023-2027   🎓 B.Tech — Artificial Intelligence & Data Science
+               Shree Venkateshwara Hi-Tech Engineering College
+               CGPA: 8.26 / 10
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -91,10 +117,9 @@ whoami:
     <td width="50%" valign="top">
       <h3 align="center">🌱 AI Agro Assistant Platform</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-PUBLISHED%20RESEARCH-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
-      <p align="center"><em>Three-system agri-tech platform — AI Agro Assistant, AgriShop e-commerce & Delivery Panel — built during NIT Trichy internship. Research paper published on Zenodo.</em></p>
+      <p align="center"><em>AI-powered agriculture assistant with real-time weather forecasting, crop disease detection, AI crop planning, market price tracking, and an integrated buy/sell platform. Research published on Zenodo.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
@@ -106,12 +131,21 @@ whoami:
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 SV Academy — Quiz Platform</h3>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-COMPLETE-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
+      <p align="center"><em>Web-based academic management platform with admin/student dashboards, online assessments, performance analytics and leaderboards, plus real-time student engagement in live sessions.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🇬🇧 PropCare NW — UK Client</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-LIVE%20%E2%80%94%20%E2%82%B940K-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
@@ -120,15 +154,6 @@ whoami:
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌍 FutureAI Global Hackathon</h3>
-      <p align="center"><img src="https://img.shields.io/badge/STATUS-450%2B%20TEAMS-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
-      <p align="center"><em>Organized and managed a global-level AI hackathon with judges from Google, Amazon & Meta across multiple timezones.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Event%20Management-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Global%20Scale-00d9ff?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -189,9 +214,15 @@ whoami:
   <img src="https://img.shields.io/badge/AI%20FOR%20ALL%20IDEATHON-1ST%20PRIZE-00d9ff?style=for-the-badge&labelColor=0D1117" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/ORACLE%20CERTIFIED-APEX%20CLOUD%20DEVELOPER-00d9ff?style=for-the-badge&logo=oracle&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/RESEARCH%20PAPER-PUBLISHED%20ON%20ZENODO-00d9ff?style=for-the-badge&labelColor=0D1117" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20AGENT%20STUDIO-CERTIFIED-00d9ff?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/AI%20FOR%20EVERYONE-COURSERA-00d9ff?style=for-the-badge&logo=coursera&labelColor=0D1117" />
 </p>
+
+**Also participated in:** National Hackathon — E-Commerce (Shree Devi Institute of Technology) · Chatbot Hackathon for farm2bag (Kongu Engineering College) · National Project Competition 2K25 (Velammal Institute of Technology)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
