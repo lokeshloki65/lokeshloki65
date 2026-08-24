@@ -1,13 +1,13 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CTO%20%26%20Co-Founder%20%40%20InnovationHacks%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CTO+%26+Co-Founder+%40+InnovationHacks;AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flokeshloki65&count_bg=%2300D9FF&title_bg=%230D1117&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=lokeshloki65&label=PROFILE%20VIEWS&color=0&icon=0&pretty=true" alt="Profile Views" />
   <a href="https://github.com/lokeshloki65?tab=followers">
     <img src="https://img.shields.io/github/followers/lokeshloki65?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&labelColor=0D1117" alt="Followers" />
   </a>
@@ -187,7 +187,7 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokeshloki65&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=lokeshloki65&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" width="49%" />
 </p>
 
 <p align="center">
