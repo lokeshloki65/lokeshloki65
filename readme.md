@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CTO%20%26%20Co-Founder%20%40%20InnovationHacks%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CTO+%26+Co-Founder+%40+InnovationHacks;AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
 
