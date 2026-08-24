@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CTO%20%26%20Co-Founder%20%40%20InnovationHacks%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<!-- Cool Tech Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 20px;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CTO+%26+Co-Founder+%40+InnovationHacks;AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
+<h1 align="center">Hi there, I'm LOKESH M <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<br/>
+<h3 align="center">🚀 CTO & Co-Founder @ InnovationHacks | 🧠 AI Engineer | 💻 Full-Stack Developer</h3>
 
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=lokeshloki65&label=PROFILE%20VIEWS&color=0&icon=0&pretty=true" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Agentic+AI+%26+RAG+Systems;AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Delivering+Enterprise-grade+Web+Applications;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
   <a href="https://github.com/lokeshloki65?tab=followers">
     <img src="https://img.shields.io/github/followers/lokeshloki65?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&labelColor=0D1117" alt="Followers" />
   </a>
@@ -21,31 +24,23 @@
 
 ## 🧑‍🚀 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-whoami:
-  name: "Lokesh M"
-  role: "CTO & Co-Founder @ InnovationHacks"
-  also: "AI Engineer & Full-Stack Developer"
-  current: "AI & ML Intern @ NIT Tiruchirappalli (TCS Foundation Programme)"
-  focus: ["Enterprise Systems", "LLMs", "RAG", "Agentic AI"]
-  based_in: "Vellore, Tamil Nadu, India"
-  status: "Final Year B.Tech — AI & Data Science | CGPA 8.26/10"
-  motto: "Build things that solve real problems, ship them, repeat."
-```
-
-I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Final-year B.Tech student in AI & Data Science. I bridge the gap between cutting-edge Artificial Intelligence and robust Enterprise systems. I have worked as an AI & ML Intern at NIT Tiruchirappalli (TCS Foundation), building real-world AI agriculture solutions, and delivered a UK client project worth ₹40,000. I specialize in **LLMs, RAG, Agentic AI, FastAPI & React** — building scalable, real-world AI applications with a strong focus on clean UI, performance, and impact.
-
-- 🚀 **InnovationHacks** — Co-Founding and leading technical architecture as CTO to build scalable enterprise solutions.
-- 🥇 **1st Prize** — AI for ALL National Ideathon, NIT Trichy × TCS Foundation (Agriculture Track)
-- 🇬🇧 **International Client** — Delivered a ₹40,000 full digital growth project for PropCare NW (UK)
-- 🌍 **Global Organizer** — Managed FutureAI Global Hackathon: 350+ participants, judges from Google, Amazon, Meta & AWS
-- 📄 **Published Researcher** — AI Agro Assistant research paper live on Zenodo
-- 📧 **Email:** lokesh152005@gmail.com &nbsp;|&nbsp; 📱 **Phone:** +91 80728 94184
-- 🌐 **Portfolio:** [lokeshloki.in](https://www.lokeshloki.in)
-
-<br clear="right"/>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <b>whoami:</b><br/>
+      <br/>
+      🔹 <b>Role:</b> CTO & Co-Founder @ InnovationHacks<br/>
+      🔹 <b>Expertise:</b> AI Engineer & Full-Stack Systems Builder<br/>
+      🔹 <b>Current:</b> AI & ML Intern @ NIT Tiruchirappalli (TCS Foundation)<br/>
+      🔹 <b>Focus:</b> LLMs, RAG, Agentic AI, Enterprise Cloud Architecture<br/>
+      🔹 <b>Motto:</b> <i>"Build things that solve real problems, ship them, repeat."</i><br/><br/>
+      I specialize in bridging the gap between cutting-edge Artificial Intelligence and robust Enterprise systems. I lead technical strategy at <b>InnovationHacks</b> and deliver high-impact applications globally (including a ₹40K UK Client Project).
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/originals/a1/34/a1/a134a17b077a7df36bd8323a789baad1.gif" width="280" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -53,18 +48,18 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
 
 <table align="center">
   <tr>
-    <th>🏢 InnovationHacks</th>
-    <th>🎓 NIT Trichy</th>
-    <th>🥇 Ideathon Winner</th>
-    <th>🇬🇧 UK Client</th>
-    <th>🌍 350+ Participants</th>
+    <th align="center">🏢 InnovationHacks</th>
+    <th align="center">🎓 NIT Trichy</th>
+    <th align="center">🥇 Ideathon Winner</th>
+    <th align="center">🇬🇧 UK Client</th>
+    <th align="center">🌍 Global Hackathon</th>
   </tr>
-  <tr align="center">
-    <td><b>CTO & Co-Founder</b><br><sub>Leading Tech Vision</sub></td>
-    <td>AI & ML Intern<br><sub>TCS Foundation</sub></td>
-    <td>AI for ALL 2026<br><sub>1st Prize</sub></td>
-    <td>PropCare NW<br><sub>₹40K Delivered</sub></td>
-    <td>FutureAI Global<br><sub>Hackathon Organizer</sub></td>
+  <tr>
+    <td align="center"><b>CTO & Co-Founder</b><br><sub>Leading Tech Vision</sub></td>
+    <td align="center">AI & ML Intern<br><sub>TCS Foundation</sub></td>
+    <td align="center">AI for ALL 2026<br><sub>1st Prize</sub></td>
+    <td align="center">PropCare NW<br><sub>₹40K Delivered</sub></td>
+    <td align="center">FutureAI Organizer<br><sub>350+ Participants</sub></td>
   </tr>
 </table>
 
@@ -73,45 +68,8 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
 ## 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,firebase,aws,docker,vercel&theme=dark&perline=12" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,aws,docker,linux,git,github,vercel,figma&theme=dark&perline=10" alt="Skills" />
 </p>
-
-<div align="center">
-
-| 💻 Languages | ⚙️ Frameworks & Runtime | 🗄️ Databases | ☁️ Platforms & DevOps |
-|:---:|:---:|:---:|:---:|
-| Python | React.js | MongoDB | Firebase |
-| JavaScript / TS | Node.js | MySQL | AWS |
-| HTML5 / CSS3 | FastAPI / Flask | Firestore | Docker / Vercel |
-
-</div>
-
-**Specialized in:** LangChain · RAG Pipelines · Agentic AI Workflows · Enterprise Cloud Architecture
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 💼 Experience & Education
-
-```text
-📅 2026-Now    🚀 CTO & Co-Founder
-               InnovationHacks
-               Leading technical strategy, architecture, and deployment of scalable enterprise web & AI systems.
-
-📅 Feb 2026    🥇 Ideathon Winner — Agriculture Track
-               NIT Tiruchirappalli × TCS Foundation
-               First Place, AI for ALL Ideathon 2026 — AI-driven agriculture solution
-
-📅 2025-Now    🤖 AI & ML Intern
-               NIT Tiruchirappalli (TCS Foundation Programme)
-               Built the AI Agro Assistant platform end-to-end
-
-📅 Jun-Aug 25  💻 Web Development Intern
-               Codetech IT Solutions, Hyderabad
-               Built responsive web apps, collaborated in Agile sprints with Git
-
-📅 2023-2027   🎓 B.Tech — Artificial Intelligence & Data Science
-               Shree Venkateshwara Hi-Tech Engineering College | CGPA: 8.26 / 10
-```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -164,15 +122,6 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/lokeshloki65?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://www.lokeshloki.in">
-    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🐍 Contribution Snake — 1,711 Commits in 2025
@@ -187,7 +136,7 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshloki65&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=lokeshloki65&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" width="49%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=lokeshloki65&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" width="49%" />
 </p>
 
 <p align="center">
@@ -201,25 +150,6 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎓 Certifications & Recognition
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NIT%20TRICHY%20INTERNSHIP-TCS%20FOUNDATION-00d9ff?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AI%20FOR%20ALL%20IDEATHON-1ST%20PRIZE-00d9ff?style=for-the-badge&labelColor=0D1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ORACLE%20CERTIFIED-APEX%20CLOUD%20DEVELOPER-00d9ff?style=for-the-badge&logo=oracle&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/RESEARCH%20PAPER-PUBLISHED%20ON%20ZENODO-00d9ff?style=for-the-badge&labelColor=0D1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20AGENT%20STUDIO-CERTIFIED-00d9ff?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AI%20FOR%20EVERYONE-COURSERA-00d9ff?style=for-the-badge&logo=coursera&labelColor=0D1117" />
-</p>
-
-**Also participated in:** National Hackathon — E-Commerce (Shree Devi Institute of Technology) · Chatbot Hackathon for farm2bag (Kongu Engineering College) · National Project Competition 2K25 (Velammal Institute of Technology)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -230,6 +160,8 @@ I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Fin
   <a href="https://www.instagram.com/Lovely_loki._65" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20my%20repos!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20my%20repos!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=70" onerror="this.style.display='none';" width="100%"/>
+</div>
 
 <p align="center"><em>Crafted with passion by <a href="https://github.com/lokeshloki65">LOKESH M</a></em></p>
