@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=220&section=header&text=LOKESH%20M&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CTO%20%26%20Co-Founder%20%40%20InnovationHacks%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=CTO+%26+Co-Founder+%40+InnovationHacks;AI+%26+ML+Intern+%40+NIT+Tiruchirappalli;Building+RAG+%26+Agentic+AI+Systems;Full-Stack+Developer+%7C+React+%2F+FastAPI;1%2C711%2B+Contributions+in+2025+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -26,16 +26,18 @@
 ```yaml
 whoami:
   name: "Lokesh M"
-  role: "AI Engineer & Full-Stack Developer"
+  role: "CTO & Co-Founder @ InnovationHacks"
+  also: "AI Engineer & Full-Stack Developer"
   current: "AI & ML Intern @ NIT Tiruchirappalli (TCS Foundation Programme)"
-  focus: ["LLMs", "RAG", "Agentic AI", "Full-Stack Systems"]
+  focus: ["Enterprise Systems", "LLMs", "RAG", "Agentic AI"]
   based_in: "Vellore, Tamil Nadu, India"
   status: "Final Year B.Tech — AI & Data Science | CGPA 8.26/10"
   motto: "Build things that solve real problems, ship them, repeat."
 ```
 
-I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. I worked as an AI & ML Intern at NIT Tiruchirappalli (TCS Foundation), building real-world AI agriculture solutions, and delivered a UK client project worth ₹40,000. I specialize in **LLMs, RAG, Agentic AI, FastAPI & React** — building scalable, real-world AI applications with a strong focus on clean UI, performance, and impact.
+I'm Lokesh M from Vellore — **CTO & Co-Founder at InnovationHacks**, and a Final-year B.Tech student in AI & Data Science. I bridge the gap between cutting-edge Artificial Intelligence and robust Enterprise systems. I have worked as an AI & ML Intern at NIT Tiruchirappalli (TCS Foundation), building real-world AI agriculture solutions, and delivered a UK client project worth ₹40,000. I specialize in **LLMs, RAG, Agentic AI, FastAPI & React** — building scalable, real-world AI applications with a strong focus on clean UI, performance, and impact.
 
+- 🚀 **InnovationHacks** — Co-Founding and leading technical architecture as CTO to build scalable enterprise solutions.
 - 🥇 **1st Prize** — AI for ALL National Ideathon, NIT Trichy × TCS Foundation (Agriculture Track)
 - 🇬🇧 **International Client** — Delivered a ₹40,000 full digital growth project for PropCare NW (UK)
 - 🌍 **Global Organizer** — Managed FutureAI Global Hackathon: 350+ participants, judges from Google, Amazon, Meta & AWS
@@ -47,50 +49,54 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 Milestones
+## 🏆 Milestones & Leadership
 
 <table align="center">
   <tr>
+    <th>🏢 InnovationHacks</th>
     <th>🎓 NIT Trichy</th>
     <th>🥇 Ideathon Winner</th>
     <th>🇬🇧 UK Client</th>
     <th>🌍 350+ Participants</th>
-    <th>📄 Published</th>
   </tr>
   <tr align="center">
+    <td><b>CTO & Co-Founder</b><br><sub>Leading Tech Vision</sub></td>
     <td>AI & ML Intern<br><sub>TCS Foundation</sub></td>
     <td>AI for ALL 2026<br><sub>1st Prize</sub></td>
     <td>PropCare NW<br><sub>₹40K Delivered</sub></td>
     <td>FutureAI Global<br><sub>Hackathon Organizer</sub></td>
-    <td>Zenodo Research<br><sub>AI Agro Assistant</sub></td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Skills
+## 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,firebase&theme=dark&perline=9" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,firebase,aws,docker,vercel&theme=dark&perline=12" alt="Core Skills" />
 </p>
 
 <div align="center">
 
-| 💻 Languages | ⚙️ Frameworks & Runtime | 🗄️ Databases | ☁️ Platforms |
+| 💻 Languages | ⚙️ Frameworks & Runtime | 🗄️ Databases | ☁️ Platforms & DevOps |
 |:---:|:---:|:---:|:---:|
 | Python | React.js | MongoDB | Firebase |
-| JavaScript | Node.js | MySQL | Vercel / Netlify |
-| HTML5 / CSS3 | FastAPI / Flask | Firestore | GitHub Actions |
+| JavaScript / TS | Node.js | MySQL | AWS |
+| HTML5 / CSS3 | FastAPI / Flask | Firestore | Docker / Vercel |
 
 </div>
 
-**Also exploring:** LangChain · RAG Pipelines · Agentic AI · TypeScript · Docker · AWS
+**Specialized in:** LangChain · RAG Pipelines · Agentic AI Workflows · Enterprise Cloud Architecture
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💼 Experience & Education
 
 ```text
+📅 2026-Now    🚀 CTO & Co-Founder
+               InnovationHacks
+               Leading technical strategy, architecture, and deployment of scalable enterprise web & AI systems.
+
 📅 Feb 2026    🥇 Ideathon Winner — Agriculture Track
                NIT Tiruchirappalli × TCS Foundation
                First Place, AI for ALL Ideathon 2026 — AI-driven agriculture solution
@@ -104,8 +110,7 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
                Built responsive web apps, collaborated in Agile sprints with Git
 
 📅 2023-2027   🎓 B.Tech — Artificial Intelligence & Data Science
-               Shree Venkateshwara Hi-Tech Engineering College
-               CGPA: 8.26 / 10
+               Shree Venkateshwara Hi-Tech Engineering College | CGPA: 8.26 / 10
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -117,7 +122,7 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
     <td width="50%" valign="top">
       <h3 align="center">🌱 AI Agro Assistant Platform</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-PUBLISHED%20RESEARCH-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
-      <p align="center"><em>AI-powered agriculture assistant with real-time weather forecasting, crop disease detection, AI crop planning, market price tracking, and an integrated buy/sell platform. Research published on Zenodo.</em></p>
+      <p align="center"><em>AI-powered agriculture assistant with real-time weather forecasting, crop disease detection, AI crop planning, market price tracking, and an integrated buy/sell platform.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -139,7 +144,7 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
     <td width="50%" valign="top">
       <h3 align="center">🎓 SV Academy — Quiz Platform</h3>
       <p align="center"><img src="https://img.shields.io/badge/STATUS-COMPLETE-00d9ff?style=for-the-badge&labelColor=0D1117" /></p>
-      <p align="center"><em>Web-based academic management platform with admin/student dashboards, online assessments, performance analytics and leaderboards, plus real-time student engagement in live sessions.</em></p>
+      <p align="center"><em>Web-based academic management platform with admin/student dashboards, online assessments, performance analytics and leaderboards, plus real-time student engagement.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -196,17 +201,6 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💻 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/lokeshloki65" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 🎓 Certifications & Recognition
 
 <p align="center">
@@ -223,15 +217,6 @@ I'm Lokesh M from Vellore — a Final-year B.Tech student in AI & Data Science. 
 </p>
 
 **Also participated in:** National Hackathon — E-Commerce (Shree Devi Institute of Technology) · Chatbot Hackathon for farm2bag (Kongu Engineering College) · National Project Competition 2K25 (Velammal Institute of Technology)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🌟 Currently Building
-
-- 🔨 Migrating my portfolio ([lokeshloki.in](https://www.lokeshloki.in)) to a full React + Vite architecture
-- 🧠 Shipping agentic AI & RAG-powered applications
-- 🌱 Scaling AgriShop e-commerce to production
-- 🎯 Preparing for Software Engineering interviews at top tech companies
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
