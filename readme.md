@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=lokeshloki65&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flokeshloki65&count_bg=%2300D9FF&title_bg=%230D1117&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" />
   <a href="https://github.com/lokeshloki65?tab=followers">
     <img src="https://img.shields.io/github/followers/lokeshloki65?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&labelColor=0D1117" alt="Followers" />
   </a>
